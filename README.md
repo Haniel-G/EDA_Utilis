@@ -8,7 +8,7 @@ This project is a utility of functions that assist in database EDA, and is const
 
 With built-in **logging** and **custom exception handling**, the module ensures **reliable debugging and error tracking**, enabling seamless data exploration for datasets in **finance, healthcare, marketing, and more**.  
 
-## 🛠️ Technologies and Tools  
+## 2. 🛠️ Technologies and Tools  
 This project leverages **Python** and key **data science libraries** to provide an intuitive and efficient EDA experience:
 
 - 🐼 **Pandas** - Data manipulation and processing  
