@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) - Utilities
+# Exploratory Data Analysis (EDA) - Utilis
 
 This project is a utility of functions that assist in database EDA, and is constantly being improved.
 
@@ -30,8 +30,8 @@ This project is continuously evolving. The following features are planned for fu
 
 ## 5. Installation 📂  
 Requirites: 
-- Python (3.13)
-- pip (25.0)
+- Python (3.13.0)
+- pip (25.0.1)
 - Git (version control tool)
 
 Once you have this installed, open a terminal on your local machine and run the following commands:
