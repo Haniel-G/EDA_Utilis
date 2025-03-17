@@ -1,0 +1,12 @@
+# Ignorar a pasta venv
+venv/
+
+# Ignorar pastas __pycache__
+__pycache__/
+
+# Outros arquivos ou pastas para ignorar
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
