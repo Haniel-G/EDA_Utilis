@@ -1,10 +1,10 @@
-# Ignorar a pasta venv
+# Ignore the venv folder
 venv/
 
-# Ignorar pastas __pycache__
+# Ignore __pycache__ folders
 __pycache__/
 
-# Outros arquivos ou pastas para ignorar
+# Other files or folders to ignore
 *.pyc
 *.pyo
 *.pyd
