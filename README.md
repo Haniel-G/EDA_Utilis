@@ -95,6 +95,4 @@ To integrate **EDA Utilis** into your existing project and ensure all dependenci
    from src.eda_utilis import *
    ```
 
-Now, your project is integrated with **EDA Utilis**, allowing you to streamline Exploratory Data Analysis effortlessly.
-
 
