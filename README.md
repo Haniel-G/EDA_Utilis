@@ -1,3 +1,10 @@
+---
+<h3 align="center">
+  <em><strong>Code being reworked ⚠️</strong></em>
+</h3>
+
+---
+
 # Exploratory Data Analysis (EDA) - Utilis
 
 This project is a utility of functions that assist in database EDA, and is constantly being improved.
